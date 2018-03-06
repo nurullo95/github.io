@@ -1,0 +1,35 @@
+# github.io
+p {
+	margin-bottom: 12px;
+}
+#well, #nice, #good {
+	font-weight: 400;
+	margin-bottom: 0;
+}
+#well {
+	font-size: 36px;
+	text-align: center;
+
+}
+#good {
+	font-size: 32px;
+	border-bottom: 1px solid grey;
+	margin-bottom: 8px;
+}
+.nice {
+	font-size: 20px;
+	text-align: center;
+	font-weight: 400;
+}
+#header{
+	margin-bottom: 32px;
+	text-align: center;
+}
+.first{
+	text-align: center;
+}
+footer {
+	margin-top: 64px;
+	text-align: center;
+}
+
